@@ -1,0 +1,27 @@
+#----FIRST part ----
+
+#name = input ("What is your name?")
+#print(name)
+
+
+
+#Excercise (Write a program that switches the values stored in the variables a and b)
+
+#a = 8
+#b = 9
+#temp  = a
+#a = b
+#b = temp
+
+
+
+### DAY 1 PROJECT ###
+#1. Create a greeting for your program.
+print ( "Welcome to the Band Generator Program")
+#2. Ask the user for the city that they grew up in.
+city = input ("What city did you grow up in? \n")
+#3. Ask the user for the name of a pet.
+pet = input ("What is the name of your pet? \n")
+#4. Combine the name of their city and pet and show them their band name.
+print ("Your Band name is " + city + " " + pet)
+
