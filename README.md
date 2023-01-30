@@ -1,3 +1,3 @@
 # 100-days-of-Python
 speed running through python to develop my skills and relearn some past concepts. 
-Gif's added in each folder to see a snapshot of the project
+Gif's added in some folders to see a snapshot of the projects
