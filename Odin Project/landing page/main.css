@@ -1,0 +1,26 @@
+body{
+    font-family: 'Cambria'; 
+}
+
+section{
+    background-color: white;
+}
+
+
+.nav-bar{
+    text-align: left;
+}
+.hero{  
+    padding: 250px;
+    color: white;
+    background-color: #1f2937;
+}
+
+
+footer{
+    padding:15px;
+    align-items:end;
+    text-align: center;
+    background-color: #1f2937;
+    color: white;
+}
